@@ -1,0 +1,9 @@
+Initial goal: to create a shape that moves across the screen
+What I accomplished: creating an interactive shape that moves across the screen
+One problem that I ran into while creating this IDP was that the blue fish would not maintain its shape and it would look like it was melting as it moved. The issue was that I had the radius of the ellipse (that makes up the body of the fish) in terms of x and w rather than just w. 
+With this IDP I wanted to use my abilty to make interactive shapes to create a moving shape that moves accross the screen using conditionals. I was able to get the shape to move to the right faster than they move to the left. I made the fish shapes based off of simple fish drawings that I looked up and picked colors I thought would be fitting.
+Press '2' to move drawings up.
+Press '1' to move drawings down. 
+Press 'c' to change colors
+Press 'r' to go back to original colors
+Press 's' to move the shape 5 units more in whichever direction it is moving in

@@ -1,0 +1,6 @@
+what I learned? (variables, functions, conditionals, loops, arrays, objects)
+I learned how to work with creating functions outside of draw and then use them by putting them in the draw function. The project was my first unguided coding project on P5 so I was a little unsure of the realm of possibility. As a result, I also used this project to become more comfortable with what I had learned in the early shapes projects and add some movement in the drawing which I think was a slight introduction to the many things projects that followed. Additionally, I worked on conditional statements pretty throughoughly in this project. And finally, I practiced setting variables and then working with them in the code. 
+What I didn't know the first time?
+The first time I worked on the project, the possibility of incorporating text on screen was something I was not aware of and I think with it, it makes it a lot easier for users to understand what's going on. 
+Changes?
+Looking back through this project, I realized it was not easily usable because there were no instructions or other obvious hints at what the possibile interactions were. So, I created a function to draw instructions and adjusted their location on the screens to stay the same, no matter the size of the screen. 
